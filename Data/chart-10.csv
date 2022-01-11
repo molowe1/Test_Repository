@@ -1,0 +1,74 @@
+﻿Title,Qualifications obtained by level of qualification,""
+Location,UK,""
+Academic years,2000/01 to 2019/20,""
+Data source,HESA,""
+Data collection,"051, 054",""
+Data source link,https://www.hesa.ac.uk/data-and-analysis/students/chart-10,""
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/students/chart-10.csv,""
+Licence,Creative Commons Attribution 4.0 International Licence,""
+Code page,Unicode UTF-8,""
+Disclaimer,Please note that this data includes rounded totals.  Caution must be taken when importing into a pivot table so as not to double count.,""
+"","",""
+Last updated,February 21,""
+"","",""
+Level of qualification,Academic Year,Number
+Undergraduate,2000/01,357560
+Postgraduate,2000/01,146850
+Total,2000/01,504410
+Undergraduate,2001/02,366235
+Postgraduate,2001/02,155265
+Total,2001/02,521500
+Undergraduate,2002/03,393440
+Postgraduate,2002/03,164350
+Total,2002/03,557790
+Undergraduate,2003/04,413560
+Postgraduate,2003/04,182085
+Total,2003/04,595640
+Undergraduate,2004/05,441325
+Postgraduate,2004/05,192105
+Total,2004/05,633425
+Undergraduate,2005/06,442635
+Postgraduate,2005/06,198670
+Total,2005/06,641305
+Undergraduate,2006/07,448610
+Postgraduate,2006/07,202360
+Total,2006/07,650970
+Undergraduate,2007/08,474290
+Postgraduate,2007/08,202045
+Total,2007/08,676340
+Undergraduate,2008/09,470080
+Postgraduate,2008/09,204720
+Total,2008/09,674800
+Undergraduate,2009/10,490630
+Postgraduate,2009/10,226400
+Total,2009/10,717030
+Undergraduate,2010/11,510895
+Postgraduate,2010/11,252255
+Total,2010/11,763150
+Undergraduate,2011/12,523025
+Postgraduate,2011/12,264090
+Total,2011/12,787115
+Undergraduate,2012/13,526150
+Postgraduate,2012/13,262205
+Total,2012/13,788355
+Undergraduate,2013/14,519685
+Postgraduate,2013/14,257935
+Total,2013/14,777625
+Undergraduate,2014/15,493865
+Postgraduate,2014/15,261630
+Total,2014/15,755495
+Undergraduate,2015/16,494795
+Postgraduate,2015/16,262170
+Total,2015/16,756960
+Undergraduate,2016/17,506825
+Postgraduate,2016/17,268710
+Total,2016/17,775535
+Undergraduate,2017/18,508420
+Postgraduate,2017/18,291490
+Total,2017/18,799915
+Undergraduate,2018/19,513670
+Postgraduate,2018/19,314680
+Total,2018/19,828350
+Undergraduate,2019/20,492355
+Postgraduate,2019/20,307980
+Total,2019/20,800335

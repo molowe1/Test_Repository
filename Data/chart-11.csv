@@ -1,0 +1,62 @@
+﻿Title,HE students by CAH level 1 and sex and academic year,"",""
+Location,UK,"",""
+Academic years,2019/20,"",""
+Data source,HESA,"",""
+Data collection,"051, 054","",""
+Data source link,https://www.hesa.ac.uk/data-and-analysis/students/chart-11,"",""
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/students/chart-11.csv,"",""
+Licence,Creative Commons Attribution 4.0 International Licence,"",""
+Code page,Unicode UTF-8,"",""
+Disclaimer,Please note that this data includes rounded totals.  Caution must be taken when importing into a pivot table so as not to double count.,"",""
+"","","",""
+Last updated,February 21,"",""
+"","","",""
+CAH level 1,Sex,Academic Year,Number
+01 Medicine and dentistry,Female,2019/20,42610
+01 Medicine and dentistry,Male,2019/20,27605
+02 Subjects allied to medicine,Female,2019/20,233810
+02 Subjects allied to medicine,Male,2019/20,61435
+03 Biological and sport sciences,Female,2019/20,55460
+03 Biological and sport sciences,Male,2019/20,57460
+04 Psychology,Female,2019/20,96650
+04 Psychology,Male,2019/20,22175
+05 Veterinary sciences,Female,2019/20,8695
+05 Veterinary sciences,Male,2019/20,1945
+"06 Agriculture, food and related studies",Female,2019/20,10730
+"06 Agriculture, food and related studies",Male,2019/20,5995
+07 Physical sciences,Female,2019/20,28515
+07 Physical sciences,Male,2019/20,41870
+08 General and others in sciences,Female,2019/20,3380
+08 General and others in sciences,Male,2019/20,3060
+09 Mathematical sciences,Female,2019/20,17400
+09 Mathematical sciences,Male,2019/20,29320
+10 Engineering and technology,Female,2019/20,34210
+10 Engineering and technology,Male,2019/20,138945
+11 Computing,Female,2019/20,26285
+11 Computing,Male,2019/20,105485
+12 Geographical and environmental studies (natural sciences),Female,2019/20,12715
+12 Geographical and environmental studies (natural sciences),Male,2019/20,10325
+"13 Architecture, building and planning",Female,2019/20,22665
+"13 Architecture, building and planning",Male,2019/20,36875
+12 Geographical and environmental studies (social sciences),Female,2019/20,7045
+12 Geographical and environmental studies (social sciences),Male,2019/20,4910
+14 Humanities and liberal arts (non-specific),Female,2019/20,6545
+14 Humanities and liberal arts (non-specific),Male,2019/20,2755
+15 Social sciences,Female,2019/20,173015
+15 Social sciences,Male,2019/20,87150
+16 Law,Female,2019/20,78695
+16 Law,Male,2019/20,43955
+17 Business and management,Female,2019/20,199395
+17 Business and management,Male,2019/20,213240
+18 Communications and media,Female,2019/20,28610
+18 Communications and media,Male,2019/20,17800
+19 Language and area studies,Female,2019/20,72430
+19 Language and area studies,Male,2019/20,29155
+"20 Historical, philosophical and religious studies",Female,2019/20,43705
+"20 Historical, philosophical and religious studies",Male,2019/20,36770
+21 Creative arts and design,Female,2019/20,118535
+21 Creative arts and design,Male,2019/20,67600
+22 Education and teaching,Female,2019/20,100160
+22 Education and teaching,Male,2019/20,29535
+23 Combined and general studies,Female,2019/20,19550
+23 Combined and general studies,Male,2019/20,12340

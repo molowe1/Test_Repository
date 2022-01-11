@@ -1,0 +1,49 @@
+﻿RECTYPE,LEA,ESTAB,URN,SCHNAME,SCHNAME_AC,ADDRESS1,ADDRESS2,ADDRESS3,TOWN,PCODE,TELNUM,PCON_CODE,PCON_NAME,CONTFLAG,ICLOSE,NFTYPE,RELDENOM,ADMPOL,ADMPOL_PT,EGENDER,FEEDER,TABKS2,TAB1618,TPUP,PTEBACC_E_PTQ_EE,PTEBACENG_E_PTQ_EE,PTEBACMAT_E_PTQ_EE,PTEBAC2SCI_E_PTQ_EE,PTEBACHUM_E_PTQ_EE,PTEBACLAN_E_PTQ_EE
+1,937,4000,137079,The George Eliot School,,Raveloe Drive,,,Nuneaton,CV11 4QP,2476744000,E14000868,Nuneaton,0,0,AC,None,NSE,OTHER NON SEL,MIXED,0,,,145,22%,99%,100%,98%,91%,22%
+1,937,4002,137235,Stratford Girls' Grammar School,,Shottery Manor,,,Stratford-upon-Avon,CV37 9HA,1789293759,E14000977,Stratford-on-Avon,0,0,ACC,Does not apply,SEL,SEL,GIRLS,0,,,120,85%,100%,100%,100%,88%,97%
+1,937,4003,139936,Nicholas Chamberlaine School,,Bulkington Road,,,Bedworth,CV12 9EA,2476312308,E14000854,North Warwickshire,0,0,AC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,210,61%,97%,98%,98%,96%,61%
+1,937,4004,137771,Etone College,,Leicester Road,,,Nuneaton,CV11 6AA,2476757300,E14000868,Nuneaton,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,126,48%,100%,100%,100%,100%,48%
+1,937,4005,139937,The Queen Elizabeth Academy,,Witherley Road,,,Atherstone,CV9 1LZ,1827712477,E14000854,North Warwickshire,0,0,AC,None,NSE,OTHER NON SEL,MIXED,0,,,121,53%,100%,100%,98%,84%,59%
+1,937,4006,140371,Harris Church of England Academy,,Harris Drive,Overslade Lane,,Rugby,CV22 6EA,1788812549,E14000905,Rugby,0,0,AC,Church of England,NSE,OTHER NON SEL,MIXED,0,,,131,6%,99%,99%,99%,57%,14%
+1,937,4009,142881,Rugby Free Secondary School,,Anderson Avenue,,,Rugby,CV22 5PE,1788222060,E14000905,Rugby,0,0,F,None,NR,OTHER NON SEL,MIXED,0,,,163,22%,96%,98%,97%,80%,36%
+1,937,4010,143707,Houlton School,,Signal Drive,Houlton,Rugby,"Warwickshire, Cv23 1ed",,1788593300,,,0,0,F,None,NSE,OTHER NON SEL,MIXED,0
+1,937,4012,145019,Kingsbury School - A Specialist Science and Mathematics Academy,,Tamworth Road,Kingsbury,,Tamworth,B78 2LF,1827872316,E14000854,North Warwickshire,0,0,AC,None,NSE,OTHER NON SEL,MIXED,0,,,142,7%,99%,99%,98%,77%,20%
+1,937,4014,145575,Bilton School,,Lawford Lane,,,Rugby,CV22 7JT,,E14000905,Rugby,0,0,AC,None,NR,OTHER NON SEL,MIXED,0,,,181,17%,98%,99%,99%,68%,32%
+1,937,4108,136991,Henley In Arden School,,Stratford Road,,,Henley-in-Arden,B95 6AF,1564792364,E14000977,Stratford-on-Avon,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,112,35%,99%,100%,100%,91%,43%
+1,937,4110,147432,Kineton High School,,Banbury Road,Kineton,,Warwick,CV35 0JX,1926640465,E14000767,Kenilworth and Southam,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,159,44%,97%,99%,97%,88%,48%
+1,937,4112,136459,The Polesworth School,,Dordon Road,Dordon,,Tamworth,B78 1QT,1827702205,E14000854,North Warwickshire,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,259,32%,97%,100%,98%,97%,32%
+1,937,4113,138767,Shipston High School,,Darlingscote Road,,,Shipston-on-Stour,CV36 4DY,1608661833,E14000977,Stratford-on-Avon,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,110,32%,99%,99%,100%,93%,36%
+1,937,4114,143905,Southam College,,Welsh Road West,,,Southam,CV47 0JW,1926812560,E14000767,Kenilworth and Southam,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,266,33%,99%,100%,100%,94%,37%
+1,937,4124,137236,Stratford Upon Avon School,,Alcester Road,,,Stratford-upon-Avon,CV37 9DH,1789268051,E14000977,Stratford-on-Avon,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,234,26%,95%,97%,95%,79%,33%
+1,937,4153,137767,Higham Lane School,,Shanklin Drive,,,Nuneaton,CV10 0BJ,2476757000,E14000868,Nuneaton,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,245,32%,98%,99%,97%,85%,37%
+1,937,4190,137770,Aylesford School and Sixth Form College,,Tapping Way,,,Warwick,CV34 6XR,1926747100,E14001019,Warwick and Leamington,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,171,32%,97%,98%,98%,94%,35%
+1,937,4192,137766,Campion School,,Sydenham Drive,,,Leamington Spa,CV31 1QH,1926743200,E14001019,Warwick and Leamington,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,129,62%,97%,98%,98%,85%,66%
+1,937,4233,136986,The Coleshill School,,Coventry Road,Coleshill,,Birmingham,B46 3EX,1675462435,E14000854,North Warwickshire,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,217,55%,98%,99%,98%,87%,56%
+1,937,4236,146697,Kenilworth School and Sixth Form,,Leyes Lane,,,Kenilworth,CV8 2DA,1926859421,E14000767,Kenilworth and Southam,0,0,ACC,None,NSE,OTHER NON SEL,MIXED,0,,,271,49%,100%,100%,100%,87%,58%
+1,937,4237,142202,North Leamington School,,Sandy Lane,Blackdown,,Leamington Spa,CV32 6RD,1926338711,E14000767,Kenilworth and Southam,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,234,45%,94%,96%,94%,89%,48%
+1,937,4240,137172,Alcester Academy,,Gerard Road,,,Alcester,B49 6QQ,1789762285,E14000977,Stratford-on-Avon,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,128,30%,98%,99%,99%,98%,30%
+1,937,4241,136587,Ashlawn School,,Ashlawn Road,Hillmorton,,Rugby,CV22 5ET,1788573425,E14000905,Rugby,0,0,ACC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,275,80%,100%,100%,98%,95%,83%
+1,937,4601,137302,King Edward VI School,,Chapel Lane,,,Stratford-upon-Avon,CV37 6BE,1789293351,E14000977,Stratford-on-Avon,0,0,ACC,None,SEL,SEL,BOYS,0,,,88,82%,100%,100%,100%,94%,88%
+1,937,4620,141277,Lawrence Sheriff School,,Clifton Road,,,Rugby,CV21 3AG,1788843700,E14000905,Rugby,0,0,ACC,None,SEL,SEL,BOYS,0,,,119,100%,100%,100%,100%,100%,100%
+1,937,4730,143634,St Benedict's Catholic High School,,Kinwarton Road,,,Alcester,B49 6PX,1789762888,E14000977,Stratford-on-Avon,0,0,ACC,Roman Catholic,NSE,OTHER NON SEL,MIXED,0,,,118,29%,100%,100%,100%,85%,36%
+1,937,4752,125756,Trinity Catholic School,Trinity Catholic School,Guy's Cliffe Avenue,,,Leamington Spa,CV32 6NB,,E14001019,Warwick and Leamington,0,0,VA,Roman Catholic,NSE,OTHER NON SEL,MIXED,0,,,109,24%,93%,95%,93%,71%,44%
+1,937,4803,141836,St Thomas More Catholic School and Sixth Form College,,Greenmoor Road,,,Nuneaton,CV10 7EX,2476642400,E14000868,Nuneaton,0,0,ACC,Roman Catholic,NSE,OTHER NON SEL,MIXED,0,,,158,13%,97%,98%,98%,82%,22%
+1,937,5400,125764,The Avon Valley School and Performing Arts College,,Newbold Road,Newbold-on-Avon,,Rugby,CV21 1EH,1788542355,E14000905,Rugby,0,0,FD,None,NSE,OTHER NON SEL,MIXED,0,,,215,16%,95%,99%,99%,55%,47%
+1,937,5401,137781,Ash Green School,,Ash Green Lane,Ash Green,,Coventry,CV7 9AH,2476366772,E14000854,North Warwickshire,0,0,ACC,None,NSE,OTHER NON SEL,MIXED,0,,,161,50%,94%,97%,97%,66%,76%
+1,937,5402,138644,Hartshill School,,Church Road,Hartshill,,Nuneaton,CV10 0NA,2476392237,E14000868,Nuneaton,0,0,ACC,None,NSE,OTHER NON SEL,MIXED,0,,,181,9%,97%,99%,97%,76%,19%
+1,937,5403,136907,Myton School,,Myton Road,,,Warwick,CV34 6PJ,1926493805,E14001019,Warwick and Leamington,0,0,ACC,None,NSE,OTHER NON SEL,MIXED,0,,,271,45%,95%,97%,97%,88%,48%
+1,937,5406,136595,Rugby High School,,Longrood Road,,,Rugby,CV22 7RE,1788810518,E14000905,Rugby,0,0,ACC,None,SEL,SEL,GIRLS,0,,,115,80%,100%,100%,99%,83%,95%
+1,937,5407,136622,Alcester Grammar School,,Birmingham Road,,,Alcester,B49 5ED,1789762494,E14000977,Stratford-on-Avon,0,0,ACC,None,SEL,SEL,MIXED,0,,,154,79%,98%,99%,98%,83%,93%
+1,937,5408,136786,Studley High School,,Crooks Lane,,,Studley,B80 7QX,1527852478,E14000977,Stratford-on-Avon,0,0,ACC,None,NSE,OTHER NON SEL,MIXED,0,,,138,41%,99%,99%,99%,99%,41%
+1,937,6004,125774,Arnold Lodge School,,15-17 Kenilworth Road,,,Leamington Spa,CV32 5TW,1926778050,E14001019,Warwick and Leamington,0,0,IND,None,,NA,MIXED,0,,,28,18%,82%,100%,100%,75%,29%
+1,937,6005,125775,The Kingsley School,,Beauchamp Avenue,,,Leamington Spa,CV32 5RD,1926425127,E14001019,Warwick and Leamington,0,0,IND,None,,NA,MIXED,0,,,36,44%,100%,100%,100%,69%,67%
+1,937,6010,125777,Rugby School,,The Bursary,10 Little Church Street,,Rugby,CV21 3AW,1788556216,E14000905,Rugby,0,0,IND,Church of England,,NA,MIXED,0,,,148,0%,0%,0%,0%,0%,20%
+1,937,6020,125781,Warwick School,,Myton Road,,,Warwick,CV34 6PP,1926776400,E14001019,Warwick and Leamington,0,0,IND,Christian,,NA,BOYS,0,,,145,0%,0%,0%,99%,56%,11%
+1,937,6084,125787,Princethorpe College,,Leamington Road,Princethorpe,,Rugby,CV23 9PX,1926634200,E14000767,Kenilworth and Southam,0,0,IND,Roman Catholic,,NA,MIXED,0,,,137,0%,0%,0%,100%,62%,4%
+1,937,6089,125788,King's High School,,Banbury Road,Warwick,Warwickshire,Warwickshire,CV34 6YE,1926494485,E14001019,Warwick and Leamington,0,0,IND,None,,NA,GIRLS,0,,,100,0%,0%,0%,0%,57%,2%
+1,937,6108,136510,Northleigh House School,,Northleigh House,Five Ways Road,Hatton,Warwick,CV35 7HZ,1926484203,E14000767,Kenilworth and Southam,0,0,IND,None,,NA,MIXED,0,,,7,0%,14%,14%,0%,0%,0%
+1,937,6109,134464,OneSchool Global UK,,Long Street,,,Atherstone,CV9 1AE,1827721751,E14000854,North Warwickshire,0,0,IND,Christian,,NA,MIXED,0,,,15,93%,100%,100%,93%,100%,93%
+1,937,6905,136158,The Nuneaton Academy,,Radnor Drive,,,Nuneaton,CV10 7PD,2476341134,E14000868,Nuneaton,0,0,AC,Does not apply,NSE,OTHER NON SEL,MIXED,0,,,112,10%,98%,100%,100%,93%,12%
+4,937,,,,,,,,,,,,,,,,,,,,,,,6225,40%,96%,97%,96%,84%,47%
+5,,,,,,,,,,,,,,,,,,,,,,,,638548,36%,89%,91%,90%,78%,44%
+7,,,,,,,,,,,,,,,,,,,,,,,,575604,39%,96%,97%,96%,82%,45%
