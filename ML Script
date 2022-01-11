@@ -1,0 +1,120 @@
+# You can write code in this cell
+# Code you have previously used to load data
+import pandas as pd
+
+# Path of the file to read
+iowa_file_path = '../input/home-data-for-ml-course/train.csv'
+
+home_data = pd.read_csv(iowa_file_path)
+
+# print the list of columns in the dataset to find the name of the prediction target
+home_data.columns
+
+y = home_data.SalePrice
+
+
+# Create the list of features below
+feature_names = ['LotArea', 'YearBuilt', '1stFlrSF', '2ndFlrSF', 'FullBath' , 'BedroomAbvGr' , 'TotRmsAbvGrd']
+
+# Select data corresponding to features in feature_names
+X = home_data[feature_names]
+
+# Review data
+# print description or statistics from X
+#print(_)
+print(X)
+# print the top few lines
+#print(_)
+X.describe()
+X.head()
+
+# from _ import _
+#specify the model. 
+#For model reproducibility, set a numeric value for random_state when specifying the model
+from sklearn.tree import DecisionTreeRegressor
+iowa_model = DecisionTreeRegressor(random_state=1)
+
+# Fit the model
+iowa_model.fit(X,y)
+
+
+print("Making predictions for the following 5 houses:")
+print(X.head())
+print("The predictions are")
+predictions = iowa_model.predict(X)
+print(predictions)
+
+from sklearn.metrics import mean_absolute_error
+print(mean_absolute_error(y, predictions))
+
+from sklearn.model_selection import train_test_split
+# split data into training and validation data, for both features and target
+# The split is based on a random number generator. Supplying a numeric value to
+# the random_state argument guarantees we get the same split every time we
+# run this script.
+train_X, val_X, train_y, val_y = train_test_split(X, y, random_state = 1)
+# Define model
+iowa_model = DecisionTreeRegressor()
+# Fit model
+iowa_model.fit(train_X, train_y)
+
+# get predicted prices on validation data using training data
+val_predictions = iowa_model.predict(val_X)
+print(mean_absolute_error(val_y, val_predictions))
+
+def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
+    model = DecisionTreeRegressor(max_leaf_nodes=max_leaf_nodes, random_state=0)
+    model.fit(train_X, train_y)
+    preds_val_y = model.predict(val_X)
+    mae = mean_absolute_error(val_y, preds_val_y)
+    return(mae)
+
+for max_leaf_nodes in [5, 25, 50, 100, 250, 500]:
+    my_mae = get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y)
+    print("Max leaf nodes: %d  \t\t Mean Absolute Error:  %d" %(max_leaf_nodes, my_mae))
+    
+    candidate_max_leaf_nodes = [5, 25, 50, 100, 250, 500]
+# Write loop to find the ideal tree size from candidate_max_leaf_nodes
+def get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y):
+    model = DecisionTreeRegressor(max_leaf_nodes=max_leaf_nodes, random_state=0)
+    model.fit(train_X, train_y)
+    preds_val_y = model.predict(val_X)
+    mae = mean_absolute_error(val_y, preds_val_y)
+    return(mae)
+
+print(val_y)
+
+# Store the best value of max_leaf_nodes (it will be either 5, 25, 50, 100, 250 or 500)
+for max_leaf_nodes in [5, 25, 50, 100, 250, 500]:
+    my_mae = get_mae(max_leaf_nodes, train_X, val_X, train_y, val_y)
+    print("Max leaf nodes: %d  \t\t Mean Absolute Error:  %d" %(max_leaf_nodes, my_mae))
+
+scores = {leaf_size: get_mae(leaf_size, train_X, val_X, train_y, val_y) for leaf_size in candidate_max_leaf_nodes} #DIDNT UNDERSTAND THIS
+
+best_tree_size = min(scores, key=scores.get)  #DIDNT UNDERSTAND THIS 
+print(best_tree_size)
+    
+# Check your answer
+step_1.check()
+
+# Fill in argument to make optimal size and uncomment
+# final_model = DecisionTreeRegressor(____)
+final_model = DecisionTreeRegressor(max_leaf_nodes=best_tree_size, random_state=1) #DIDNT UNDERSTAND THIS
+
+# fit the final model and uncomment the next two lines
+# final_model.fit(____, ____)
+final_model.fit(X, y)
+
+# Check your answer
+step_2.check()
+
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_absolute_error
+
+forest_model = RandomForestRegressor(random_state=1)
+forest_model.fit(train_X, train_y)
+iowa_preds = forest_model.predict(val_X)
+print(mean_absolute_error(val_y, iowa_preds))
+
+#print(iowa_preds)= this works
+#print(preds_val_y)=this doesnt work
